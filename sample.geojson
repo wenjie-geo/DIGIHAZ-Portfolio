@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.0,
+              0.0
+            ],
+            [
+              101.0,
+              0.0
+            ],
+            [
+              101.0,
+              1.0
+            ],
+            [
+              100.0,
+              1.0
+            ],
+            [
+              100.0,
+              0.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "description": "A simple sample polygon for testing GeoJSON writing.",
+        "name": "Sample Polygon"
+      }
+    }
+  ]
+}
